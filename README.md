@@ -6,5 +6,5 @@ Bilateral filter created using Matlab, after reading a thesis called <Bilateral 
 The two pictures are images before and after applying the filter using the source code.
 
 
-Prof. Min Hyuk Kim,  
+Prof. Min Hyuk Kim  
 Ass. Ju Ho Kim
